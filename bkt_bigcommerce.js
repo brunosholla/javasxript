@@ -1,4 +1,3 @@
-<script>
     window.onload = async () => {
         var parent = document.querySelector('.checkout-steps');
 
@@ -87,4 +86,4 @@
         }
         
     }
-</script>
+
